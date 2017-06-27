@@ -1,0 +1,8 @@
+com/ourcompany/MyComponent.java
+com/ourcompany/MyComponentInterface.java
+com/thirdparty/ThirdPartyComponentFactory.java
+com/thirdparty/ThirdPartyComponentInterface.java
+com/thirdparty/concrete/ThirdPartyComponent.java
+test/com/ourcompany/MockThirdPartyComponent.java
+test/com/ourcompany/MockThirdPartyComponentAspect.java
+test/com/ourcompany/MyComponentTest.java

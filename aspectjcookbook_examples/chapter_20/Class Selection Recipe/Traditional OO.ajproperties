@@ -1,0 +1,2 @@
+src.includes = /
+src.excludes = com/oreilly/aspectjcookbook/ControlClassSelectionAspect.java

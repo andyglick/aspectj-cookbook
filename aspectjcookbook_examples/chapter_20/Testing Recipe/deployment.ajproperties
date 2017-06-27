@@ -1,0 +1,2 @@
+src.includes = com/,\
+               test/com/ourcompany/MyComponentTest.java

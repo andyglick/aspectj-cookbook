@@ -1,0 +1,6 @@
+src.includes = /
+src.excludes = com/oreilly/aspectjcookbook/oopatterns/,\
+               com/oreilly/aspectjcookbook/TransactionControlAspect.aj,\
+               com/oreilly/aspectjcookbook/SynchronizeBankAccountAspect.java,\
+               com/oreilly/aspectjcookbook/AccountTransferTransactionAspect.java,\
+               com/oreilly/aspectjcookbook/transactions/

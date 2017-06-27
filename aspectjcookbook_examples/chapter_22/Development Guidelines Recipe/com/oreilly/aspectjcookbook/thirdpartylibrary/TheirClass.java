@@ -1,0 +1,1 @@
+package com.oreilly.aspectjcookbook.thirdpartylibrary;public class TheirClass{	public void foo(int number, String name)	{		System.out.println("Inside TheirClass.foo (int, String)");	}}

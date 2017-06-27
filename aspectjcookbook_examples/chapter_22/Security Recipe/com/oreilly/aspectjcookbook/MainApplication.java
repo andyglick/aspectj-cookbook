@@ -1,0 +1,1 @@
+package com.oreilly.aspectjcookbook;public class MainApplication{	public static void main(String[] args)	{	   System.out.println("Attempting to make call on ClassA.foo(int, string)");	   ClassA objectA = new ClassA();	   objectA.foo(1, "Kim");	   objectA.foo(1, "Russ");	   System.out.println("Closing Application");	   System.exit(0);	}}

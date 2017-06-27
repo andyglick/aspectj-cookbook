@@ -1,0 +1,9 @@
+Name: com/oreilly/aspectjcookbook/
+Specification-Title: My simple AspectJ Application
+Main-Class: com.oreilly.aspectjcookbook.MyClass
+Implementation-Title: com.oreilly.aspectjcookbook
+Specification-Vendor: Russ Miles
+Specification-Version: 1.0
+Implementation-Version: 1.0
+Implementation-Vendor: Russ Miles
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+  <display-name>MyApplication</display-name>
+  <description>
+    A simple web application that demonstrates the deployment of Java Servlets
+    that have been built using AspectJ.
+  </description>
+    
+  <servlet>
+    <servlet-name>AOHelloWorld</servlet-name>
+    <servlet-class>com.oreilly.aspectjcookbook.AOHelloWorldServlet</servlet-class>
+  </servlet>
+    
+  <servlet-mapping>
+ ÊÊ <servlet-name>AOHelloWorld</servlet-name>
+ ÊÊ <url-pattern>/AOHelloWorld</url-pattern>
+  </servlet-mapping>
+
+</web-app>
